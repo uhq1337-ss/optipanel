@@ -1,6 +1,6 @@
 [
   {
-    "type": "event",
+    "type": "uptade",
     "date": "29 avril 2026",
     "title": "tweaks Disponibles AMD & NVIDIA",
     "content": "Nouveau tweaks pour AMD & Nvidia ont été ajouté."
@@ -12,7 +12,7 @@
     "content": "La v1 vient de sortir, c'est des optimisations basiques afin de nettoyer votre PC aux maiximum."
   },
   {
-    "type": "update",
+    "type": "event",
     "date": "27 avril 2026",
     "title": "Tweak GPU AMD & Nvidia ajouté",
     "content": "Nouveau tweaks pour AMD & Nvidia ont été ajouté."
