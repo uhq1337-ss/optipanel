@@ -2,6 +2,16 @@
   {
     "type": "event",
     "date": "29 avril 2026",
+    "title": "TON TITRE ICI",
+    "content": "Ton message ici."
+  },
+  ...les anciennes annonces en dessous...
+]
+
+[
+  {
+    "type": "event",
+    "date": "29 avril 2026",
     "title": "Nouveau tweaks disponibles",
     "content": "La v1 vient de sortir, c'est des optimisations basiques afin de nettoyer votre PC aux maiximum."
   },
