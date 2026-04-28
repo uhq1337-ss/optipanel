@@ -1,0 +1,12 @@
+[
+  {
+    "version": "v2.1",
+    "title": "Nouveaux tweaks GPU",
+    "date": "28 avril 2025",
+    "tags": ["feat", "fix"],
+    "changes": [
+      { "type": "feat", "text": "Tweak GPU AMD ajouté" },
+      { "type": "fix",  "text": "Correction du ping Epic" }
+    ]
+  }
+]
