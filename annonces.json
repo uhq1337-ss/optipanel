@@ -1,0 +1,14 @@
+[
+  {
+    "type": "event",
+    "date": "29 avril 2026",
+    "title": "Nouveau tweaks disponibles",
+    "content": "La v1 vient de sortir, c'est des optimisations basiques afin de nettoyer votre PC aux maiximum."
+  },
+  {
+    "type": "update",
+    "date": "27 avril 2026",
+    "title": "Tweak GPU AMD & Nvidia ajouté",
+    "content": "Nouveau tweaks pour AMD & Nvidia ont été ajouté."
+  }
+]
