@@ -1,7 +1,7 @@
 [
   {
     "version": "v2.1",
-    "title": "Nouveaux tweaks GPU",
+    "title": "Nouveaux tweaks CPU & GPU",
     "date": "28 avril 2025",
     "tags": ["feat", "fix"],
     "changes": [
