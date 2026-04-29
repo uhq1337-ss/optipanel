@@ -1,12 +1,33 @@
 [
   {
-    "version": "V1.0",
-    "title": "Nouveaux tweaks CPU & GPU",
-    "date": "28 avril 2025",
-    "tags": ["feat", "fix"],
+    "version": "v2.0",
+    "title": "Grosse mise à jour — Nouveaux tweaks",
+    "date": "29 avril 2026",
+    "tags": ["feat", "perf", "fix"],
     "changes": [
-      { "type": "feat", "text": "Tweak GPU AMD ajouté" },
-      { "type": "fix",  "text": "Correction du ping Epic" }
+      { "type": "feat", "text": "Nettoyage caches jeux ajouté : FiveM, Fortnite, Valorant, Steam — suppression en 1 clic" },
+      { "type": "perf", "text": "Core Parking désactivé — tous les cœurs CPU restent actifs, moins de stutters en jeu" },
+      { "type": "perf", "text": "GPU Tweaks ajouté — Hardware GPU Scheduling activé + HPET désactivé, gain FPS direct" },
+      { "type": "perf", "text": "Fullscreen Optimisations Windows désactivées — une des causes principales de FPS perdus" },
+      { "type": "perf", "text": "Priorité CPU gaming renforcée — NetworkThrottlingIndex max + Scheduling Category High" },
+      { "type": "feat", "text": "FiveM ajouté dans le ping réseau — vois ta latence vers les serveurs FiveM en direct" },
+      { "type": "fix",  "text": "Page Updates corrigée — le changelog se charge maintenant correctement au démarrage" },
+      { "type": "fix",  "text": "Point de restauration Windows corrigé — ne plante plus sur les caractères spéciaux" }
+    ]
+  },
+  {
+    "version": "v1.0",
+    "title": "Lancement du panel",
+    "date": "28 avril 2026",
+    "tags": ["feat"],
+    "changes": [
+      { "type": "feat", "text": "Lancement officiel de SyncOpti Panel" },
+      { "type": "feat", "text": "Monitoring CPU, RAM, GPU en temps réel avec graphiques live" },
+      { "type": "feat", "text": "Profils Gaming / Streaming / Veille en 1 clic" },
+      { "type": "feat", "text": "Gestionnaire d'applications au démarrage" },
+      { "type": "feat", "text": "Nettoyage bloatwares Windows" },
+      { "type": "feat", "text": "Alertes température CPU & GPU + point de restauration" },
+      { "type": "feat", "text": "Feed annonces Discord intégré" }
     ]
   }
 ]
