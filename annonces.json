@@ -1,6 +1,12 @@
+{
+  "type": "update",
+  "date": "29 avril 2026",
+  "title": "SyncOpti Panel v2.0 est disponible",
+  "content": "Grosse mise à jour : nettoyage caches FiveM/Fortnite/Valorant, nouveaux tweaks GPU et Core Parking, ping FiveM ajouté et plusieurs bugs corrigés. Retélécharge le panel depuis notre site pour avoir la dernière version."
+}
 [
   {
-    "type": "uptade",
+    "type": "event",
     "date": "29 avril 2026",
     "title": "tweaks Disponibles AMD & NVIDIA",
     "content": "Nouveau tweaks pour AMD & Nvidia ont été ajouté."
