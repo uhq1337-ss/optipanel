@@ -1,2 +1,0 @@
-const PANEL_DOWNLOAD_URL = 'https://github.com/uhq1337-ss/optipanel/releases/latest/download/SyncOpti-Setup.exe';
-const PANEL_VERSION = 'V1.0';
